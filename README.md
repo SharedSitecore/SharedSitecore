@@ -8,9 +8,9 @@ The best and easiest namespace to Share Sitecore code
 
 <hr>
 
-[SitecoreLocal](https://github.com/SharedSitecore/SitecoreLocal)<br/>
-[SitecoreDocker](https://github.com/SharedSitecore/SitecoreDocker)<br/>
-[Import-SitecoreAzureToolkit](https://github.com/SharedSitecore/Import-SitecoreAzureToolkit)<br/>
+  [SitecoreDocker](https://github.com/SharedSitecore/SitecoreDocker)<br/>
+  [SitecoreLocal](https://github.com/SharedSitecore/SitecoreLocal)<br/>
+  [Import-SitecoreAzureToolkit](https://github.com/SharedSitecore/Import-SitecoreAzureToolkit)<br/>
   
 </td><td valign="top" width="33%">
   
