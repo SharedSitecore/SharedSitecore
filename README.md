@@ -1,5 +1,5 @@
 Welcome to [SharedSitecore](https://sharedsitecore.com)
-The best and easiest namespace to Share Sitecore code
+The best and easiest namespace to Share Sitecore code: **Shared.SharedSitecore**
 
 <center>
 <table width="100%" border="1"><tr><td valign="top" width="33%">
