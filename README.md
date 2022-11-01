@@ -31,11 +31,22 @@ The best and easiest namespace to Share Sitecore code: **Shared.SharedSitecore**
 [Get-SitecoreVersion](https://github.com/SharedSitecore/Get-SitecoreVersion)<br/>
   
 </td></tr><tr><td width="100%" colspan="3">
-  
+### ⚡ Created by:
+[Radical-Dave](https://github.com/radical-dave)<br/>
+[SitecoreDave](https://github.com/Sitecoredave)<br/>
+
   </td></tr>
 </table>
 </center>
+<br/>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SharedSitecore&show_icons=true&count_private=true)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SharedSitecore)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=SharedSitecore)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub metrics](https://metrics.lecoq.io/SharedSitecore)
 <!--
 ### Hi there 👋
 
